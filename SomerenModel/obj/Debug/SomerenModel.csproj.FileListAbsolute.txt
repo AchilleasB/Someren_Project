@@ -1,0 +1,42 @@
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (4)\group_project-main\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (7)\group_project-main\SomerenModel\obj\Debug\SomerenModel.pdb
+Z:\src\someren_project\SomerenModel\bin\Debug\SomerenModel.dll
+Z:\src\someren_project\SomerenModel\bin\Debug\SomerenModel.pdb
+Z:\src\someren_project\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+Z:\src\someren_project\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+Z:\src\someren_project\SomerenModel\obj\Debug\SomerenModel.dll
+Z:\src\someren_project\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenModel\obj\Debug\SomerenModel.pdb
