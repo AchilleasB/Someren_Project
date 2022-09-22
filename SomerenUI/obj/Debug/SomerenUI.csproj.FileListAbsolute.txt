@@ -1,0 +1,81 @@
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.RegistrationForm.resources
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\domik\Downloads\group_project-main (10)\group_project-main\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordWindow.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordWindow.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.LoginUI.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.RegistrationForm.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\domik\Downloads\Week 5 (2)\Week 5\Domink and Wael Solution Week 5\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordWindow.resources
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.LoginUI.resources
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.RegistrationForm.resources
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\domik\OneDrive\Pulpit\Someren_Retake_02_06_2022\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.ForgotPasswordWindow.resources
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.RegistrationForm.resources
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\achil\OneDrive\Desktop\Someren_Retake\SomerenUI\obj\Debug\SomerenUI.LoginForm.resources
